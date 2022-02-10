@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T16:23:38.279Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="Jr_jcgGK9Z-ouh2NvZ71" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T16:24:08.313Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="R_vqC24LySCXWk6DTcts" version="16.5.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="733" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="633" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iDWHw8bJFJ0Ft0IPz2fe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iDWHw8bJFJ0Ft0IPz2fe-1" target="iDWHw8bJFJ0Ft0IPz2fe-10">
+        <mxCell id="iDWHw8bJFJ0Ft0IPz2fe-15" value="1:1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iDWHw8bJFJ0Ft0IPz2fe-1" target="iDWHw8bJFJ0Ft0IPz2fe-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iDWHw8bJFJ0Ft0IPz2fe-1" value="Einzelteilnahme" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
@@ -21,7 +21,7 @@
         <mxCell id="iDWHw8bJFJ0Ft0IPz2fe-4" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="iDWHw8bJFJ0Ft0IPz2fe-1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iDWHw8bJFJ0Ft0IPz2fe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iDWHw8bJFJ0Ft0IPz2fe-6" target="iDWHw8bJFJ0Ft0IPz2fe-10">
+        <mxCell id="iDWHw8bJFJ0Ft0IPz2fe-14" value="1:1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iDWHw8bJFJ0Ft0IPz2fe-6" target="iDWHw8bJFJ0Ft0IPz2fe-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iDWHw8bJFJ0Ft0IPz2fe-6" value="Gruppenteilnahme" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
