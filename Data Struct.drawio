@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T16:35:05.119Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="LC5Xi4rLKe-eExlhfIE7" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T16:37:27.849Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="XnqLaPSo6dSm_P4g2tO9" version="16.5.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="928" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="535" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,13 +100,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iDWHw8bJFJ0Ft0IPz2fe-45" value="Dropdown (x Optionen)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="440" width="140" height="120" as="geometry" />
+          <mxGeometry x="640" y="440" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="iDWHw8bJFJ0Ft0IPz2fe-46" value="Einzelne Elemente mit ; getrennt" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="iDWHw8bJFJ0Ft0IPz2fe-45">
-          <mxGeometry y="30" width="140" height="40" as="geometry" />
+          <mxGeometry y="30" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iDWHw8bJFJ0Ft0IPz2fe-47" value="Speicherung der „Worte“ in Config Tebelle" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="iDWHw8bJFJ0Ft0IPz2fe-45">
-          <mxGeometry y="70" width="140" height="50" as="geometry" />
+        <mxCell id="iDWHw8bJFJ0Ft0IPz2fe-47" value="Speicherung der „Worte“ in Config Tabelle. - In Additional Data nur Referenzierende Nummer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="iDWHw8bJFJ0Ft0IPz2fe-45">
+          <mxGeometry y="70" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iDWHw8bJFJ0Ft0IPz2fe-52" value="Textfeld" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="440" width="140" height="80" as="geometry" />
